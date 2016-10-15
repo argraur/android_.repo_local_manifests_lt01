@@ -12,7 +12,7 @@
   <project name="gr8nole/android_device_samsung_lt013g" path="device/samsung/lt013g" remote="github" revision="bliss-n7.0" />
   <project name="gr8nole/android_device_samsung_lt01lte" path="device/samsung/lt01lte" remote="github" revision="bliss-n7.0" />
   <project name="gr8nole/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-13.0" />
-  <remove-project name="BlissRoms/platform_vendor_bliss" />
+  <remove-project name="platform_vendor_bliss" />
   <project name="argraur/platform_vendor_bliss" path="vendor/bliss" remote="github" revision="n7.0" />
 
 </manifest>
